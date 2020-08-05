@@ -1,2 +1,2 @@
 # AI-Development
-This repository contains all notebooks and files which are part of the AI Object Recognition Project
+This repository contains notebooks and files that form part of a FASTI2-based AI Object Recognition Project
