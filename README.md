@@ -1,2 +1,2 @@
 # AI-Artificial Development
-This repository contains notebooks and files that form part of FASTAI2-based AI Object Recognition Projects and Experiments.
+This repository contains notebooks and files for AI Object Recognition Projects and Experiments using the FASTAI2 Development Platform.
